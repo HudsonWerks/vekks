@@ -1,3 +1,3 @@
-# Vex the "NudgeBot:" the home healthcare robot
+# Vex: The home healthcare robot
 
-Code ideas and assorted notes for a DIY, open source robot for assisting caregivers and disabled patients in keeping your therapies on track.
+Code ideas and assorted notes for a DIY, open source robot -- or "NudgeBot" -- for assisting caregivers and disabled patients in keeping your therapies on track.
